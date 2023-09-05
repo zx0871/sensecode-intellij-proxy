@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.zx0871.sensecodeintellijproxy
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
